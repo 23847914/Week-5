@@ -20,7 +20,8 @@ footer {
     color: white;
 }
 nav {
-    background-color: purple;
+    background-color: blue;
+    color: white;
     list-style: none;
     display: flex;
     justify-content: space-around;
