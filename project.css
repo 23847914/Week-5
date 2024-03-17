@@ -21,3 +21,10 @@ footer {
     background-color: darkgreen;
     color: white;
 }
+nav {
+    color: white;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
