@@ -10,5 +10,12 @@ p {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     border: 2px solid black;
-padding: 20px;
+padding: 60px;
+}
+aside {
+    background-color: aquamarine;
+}
+footer {
+    background-color: aqua;
+    color: white;
 }
