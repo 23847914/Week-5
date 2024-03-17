@@ -1,11 +1,15 @@
-body {
-    display: grid;
-    grid-template-columns: 20% 60% 20%;
-    grid-template-rows: auto;
-    grid-template-areas:
-    "header header header"
-    "nav nav nav"
-    "main main aside"
- "footer footer footer";
+h1 {
+    color: white;
+font-size: 30px;
+text-decoration: underline;
+text-shadow: 2px 2px 4px gray;
+background-color: black;
+}
+p {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    border: 2px solid black;
+padding: 20px;
 }
 
